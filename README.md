@@ -126,10 +126,11 @@ Recommended images:
 Then reference them here using Markdown image links, for example:
 
 ```md
+```
 ![Dashboard](screenshots/dashboard.png)
 ![Book Detail](screenshots/book-detail.png)
 ![Q&A](screenshots/chat.png)
-```
+
 
 ## Notes
 
